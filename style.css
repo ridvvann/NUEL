@@ -247,7 +247,6 @@ body {
 }
 .content-section {
     padding: 40px;
-    text-align: center;
     color: white;
     position: relative;
     display: flex; /* Use flexbox */
